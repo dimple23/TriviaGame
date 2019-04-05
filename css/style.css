@@ -1,0 +1,30 @@
+body{
+  background:url(../images/4.jpg);
+}
+
+.container{
+  width: 70%;
+  background:lightgoldenrodyellow;
+  text-align: center;
+  color: blue;
+  align-content: center;
+  float:center;
+  margin-left: 15%;
+  font-size: 20px;
+}
+p{
+  color: moccasin;
+  background-color:darkmagenta;
+  font-size: 26px;
+}
+h1{
+  color:midnightblue;
+  font-size: 50px;
+}
+
+.btn{
+  background-color: brown;
+  color: aliceblue;
+
+  font-size: 200%;
+}
